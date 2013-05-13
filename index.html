@@ -11,7 +11,7 @@ title: Home
                 <a href="{{post.url}}">
                   <img src="{{ post.thumb }}" alt="Thumbnail" />
                 </a>
-                <p>{{ post.title }}<br />{{ post.date | date: "%Y" }}</p>
+                <p>{{ post.title | truncatewords: 2}}<br />{{ post.date | date: "%Y" }}</p>
             </li>
             {% endfor %}
         </ul>
