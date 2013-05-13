@@ -1,14 +1,14 @@
 @charset 'UTF-8';
 
 .sampleframe_outer p{margin-bottom: 5px;}
-.sampleimg > img, .profilepic > img{border: 1px solid #DEDEDE;}
+.profilepic > img {border: 1px solid #DEDEDE;}
 
 .sampleframe_web{ position: relative; margin: 15px 4px; padding: 10px; background: #C3D72C; font-size: 1.4em; line-height: 1.4; width: 1062px; _width:1082px;}
 .sampleframe_go, .contactframe{ position: relative; margin: 15px 4px; padding: 10px; background: #6FB92C; font-size: 1.4em; line-height: 1.4; width: 1062px; _width:1082px;}
 .contactframe_form{ position: relative; margin: 15px 4px; padding: 10px; background: #C3D72C url(../images/contactbg.jpg) right 10px no-repeat; font-size: 1.4em; line-height: 1.4; width: 1062px; _width:1082px;}
 
-
-.sampleframe_web .sampleimg, .sampleframe_go .sampleimg{ float: left; width: 680px;}
+.sampleimg img {border: 1px solid #DEDEDE;margin:5px 0;}
+.sampleframe_web .sampleimg, .sampleframe_go .sampleimg{ float: left; width: 680px;margin:0 5px;}
 .sampleframe_web img.mrg10, .sampleframe_go img.mrg10{ margin-top: 10px;}
 
 .explanation{ text-align: left; margin-left: 15px; float: left; width: 350px;}
