@@ -1,5 +1,6 @@
 ---
 layout: sample
+category: web
 permalink: /samples/infernal-affairs-ii.html
 title: Infernal Affairs II
 tags:

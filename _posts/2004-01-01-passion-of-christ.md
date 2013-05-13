@@ -1,6 +1,7 @@
 ---
 layout: sample
-permalink: /samples/the-passion-of-christ.html
+category: web
+permalink: /samples/passion-of-christ.html
 title: The Passion of Christ
 tags:
 - Planning

@@ -1,5 +1,6 @@
 ---
 layout: sample
+category: web
 permalink: /samples/white-oleander.html
 title: White Oleander
 tags:

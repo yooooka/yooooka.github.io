@@ -1,5 +1,6 @@
 ---
 layout: sample
+category: web
 permalink: /samples/in-america.html
 title: In America
 tags:

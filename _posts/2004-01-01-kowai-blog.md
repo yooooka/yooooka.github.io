@@ -1,5 +1,6 @@
 ---
 layout: sample
+category: web
 permalink: /samples/kowai-blog.html
 title: Kowai Blog
 tags:

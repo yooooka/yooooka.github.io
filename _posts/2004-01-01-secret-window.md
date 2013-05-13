@@ -1,6 +1,7 @@
 ---
 layout: sample
-permalink: /samples/secret.html
+category: web
+permalink: /samples/secret-window.html
 title: Secret Window
 tags:
 - Planning

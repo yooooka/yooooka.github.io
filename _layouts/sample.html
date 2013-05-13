@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="sampleframe_outer">
-    <div class="sampleframe_web clearfix rounded">
+  <div class="sampleframe_{{ page.category }} clearfix rounded">
         <div class="sampleimg">
             {% for image in page.images %}
             <a href="{{ page.sample_link }}" target="_blank"><img src="{{ image }}" alt="{{ page.title }}" /></a>
@@ -14,7 +14,7 @@ layout: default
             {{ content }}
             <a href="{{ page.sample_link }}" target="_blank">{{ page.sample_link }}</a>
             <div id="nextpre">
-                <a href="javascript:nextPg(-1)" class="main">Next</a>
+                <a href="{{ page.next.url }}" class="main">Next</a>
             </div>
             <div class="backtop">
                 <a href="/">Back top</a>

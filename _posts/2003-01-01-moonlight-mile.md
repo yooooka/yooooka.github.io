@@ -1,5 +1,6 @@
 ---
 layout: sample
+category: web
 permalink: /samples/moonlight-mile.html
 title: Moonlight Mile
 tags:
