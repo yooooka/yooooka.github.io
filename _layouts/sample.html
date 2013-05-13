@@ -29,8 +29,9 @@
                         </div>
                         <div class="explanation">
                             <h2>{{ page.title }}</h2>
-                            <p class="year">{{ page.subtitle }}</p>
+                            <p class="year">{{ page.date | date: "%Y" }}, {{ page.tags | join: ", "}}</p>
                             {{ content }}
+                            <a href="{{ page.sample_link }}" target="_blank">{{ page.sample_link }}</a>
                             <div id="nextpre">
                                 <a href="javascript:nextPg(-1)" class="main">Next</a>
                             </div>
