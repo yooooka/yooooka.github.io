@@ -8,7 +8,7 @@ tags:
 - Design
 - Coding
 images:
-- /images/samples/shunrestaurant.jpg
+- /images/samples/shun.jpg
 thumb: /images/thumb/shun_t.jpg
 sample_link: ""
 ---
