@@ -1,47 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta http-equiv="Content-Script-Type" content="text/javascript" />
-	<meta http-equiv="Content-Style-Type" content="text/css" />
-
-<title>Web and Graphic Designer / Yoshiko Oka</title>
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
-<link rel="shortcut icon" href="/favicon.ico" />
-
-<script type="text/javascript" src="/jquery/jquery-1.2.6.js"></script>
-<script type="text/javascript" src="/jquery/jquery-ui-full-1.5.2.min.js"></script>
-<script type="text/javascript" src="/jquery/jquery.corner.js"></script>
-<script type="text/javascript" src="/jquery/allfunctions.js"></script>
-</head>
-
-<body>
-<div id="container">
-<div id="container_inner">
-	
-<!--#include virtual="/ssi/header.txt" -->
-
-<div class="sampleframe_outer">
-<div class="sampleframe_web clearfix rounded">
-<div class="sampleimg">
-<img src="/images/samples/benefitconcert01.jpg" alt="benefitconcert01" />
-<img src="/images/samples/benefitconcert02.jpg" alt="benefitconcert02" class="mrg10" />
-</div>
-<div class="explanation">
-<h2>Benefit Concert for Seattle Community Law Center</h2>
-<p class="year">2008, Design, Coding</p>
-<p>Created the site to promote a classical music performance.</p>
-<!--#include virtual="/ssi/backtop.txt" -->
-</div>
-</div>
-
-<!--#include virtual="/ssi/slidenavi_w.txt" -->
-
-</div>
-</div>
-<!--#include virtual="/ssi/contact.txt" -->
-</div>
-</body>
-</html>
+---
+layout: sample
+category: web
+permalink: /samples/benefit-concert.html
+title: Benefit Concert for Seattle Community Law Center
+tags:
+- Design
+- Coding
+images:
+- /images/samples/benefitconcert01.jpg
+- /images/samples/benefitconcert02.jpg
+thumb: /images/thumb/benefitc_t.jpg
+sample_link: ""
+---
+Created the site to promote a classical music performance.
