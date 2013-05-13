@@ -1,0 +1,10 @@
+---
+layout: sample
+permalink: /samples/hotel.html
+title: Hotel
+subtitle: 2002, Planning, Management
+images:
+- /images/samples/hotel01.jpg
+thumb: /images/thumb/hotel_t.jpg
+---
+I planned and managed the movie's official site. I collaborated with another designer to create the navigation and front page.

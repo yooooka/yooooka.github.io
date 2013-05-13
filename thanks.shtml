@@ -5,18 +5,15 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="Content-Script-Type" content="text/javascript" />
 	<meta http-equiv="Content-Style-Type" content="text/css" />
-
-<title>Web and Graphic Designer / Yoshiko Oka</title>
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/css/form.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
-<link rel="shortcut icon" href="/favicon.ico" />
-
-<script type="text/javascript" src="/jquery/jquery-1.2.6.js"></script>
-<script type="text/javascript" src="/jquery/jquery-ui-full-1.5.2.min.js"></script>
-<script type="text/javascript" src="/jquery/jquery.corner.js"></script>
-<script type="text/javascript" src="/jquery/allfunctions.js"></script>
-
+    <title>Web and Graphic Designer / Yoshiko Oka</title>
+    <link rel="stylesheet" type="text/css" href="/css/common.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/css/form.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <script type="text/javascript" src="/jquery/jquery-1.2.6.js"></script>
+    <script type="text/javascript" src="/jquery/jquery-ui-full-1.5.2.min.js"></script>
+    <script type="text/javascript" src="/jquery/jquery.corner.js"></script>
+    <script type="text/javascript" src="/jquery/allfunctions.js"></script>
 </head>
 
 <body>
