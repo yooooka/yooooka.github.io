@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<title>Web and Graphic Designer / Yoshiko Oka</title>
+<link rel="stylesheet" type="text/css" href="/css/common.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<script type="text/javascript" src="/jquery/jquery-1.2.6.js"></script>
+<script type="text/javascript" src="/jquery/jquery-ui-full-1.5.2.min.js"></script>
+<script type="text/javascript" src="/jquery/jquery.corner.js"></script>
+<script type="text/javascript" src="/jquery/allfunctions.js"></script>
+</head>
+
+<body>
+<div id="container">
+<div id="container_inner">
+	
+<!--#include virtual="/ssi/header.txt" -->
+
+<div class="sampleframe_outer">
+<div class="sampleframe_go clearfix rounded">
+<div class="sampleimg">
+<img src="/images/samples/mitsubishirayon01.jpg" alt="mitsubishirayon01" />
+</div>
+<div class="explanation">
+<h2>Mitsubishi Rayon</h2>
+<p class="year">1999, Design</p>
+<p>Box for the water filter.</p>
+<!--#include virtual="/ssi/backtop_go.txt" -->
+</div>
+</div>
+
+<!--#include virtual="/ssi/slidenavi_w.txt" -->
+
+</div>
+</div>
+<!--#include virtual="/ssi/contact.txt" -->
+</div>
+</body>
+</html>

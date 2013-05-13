@@ -1,0 +1,129 @@
+@charset 'UTF-8';
+@import url("contents.css");
+
+body {color:#000; margin:0px; text-align:center; height: 100%;}
+#container { margin:0px auto; padding:0px; background: #eee /* url(../images/newbg.png) 0 0 repeat */;}
+#container_inner{ margin:0px auto; width: 1090px; text-align: left; padding-bottom: 50px; /*background:url(../images/citybg.gif) 0 bottom no-repeat;*/ }
+
+/* ____ header ____ */
+#header {padding-top: 6em;}
+#header h1{ width: 702px; height: 177px; background: url(../images/title.gif) 0 0 no-repeat; }
+#header h1 a{ display:block; width: 702px; height: 177px;  }
+#righthead{ position: fixed; _position: absolute; top: 0px; right: 0px; height: 53px; background: url(../images/ruler.gif) 0 0 repeat-x; padding-top: 10px; width: 100%;
+-moz-opacity:.90; filter:alpha(opacity=90); opacity:.90; }
+
+#righthead h3#profile, #righthead h3#contact, #righthead h3#twitter{ display: inline;}
+
+#righthead h3#profile a{ width:72px; height:22px; background: url(../images/sprite01.gif) -84px 0px no-repeat; float: right; margin-right: 5px;}
+#righthead h3#contact a{ width:72px; height:22px; background: url(../images/sprite01.gif) -160px 0px no-repeat; float: right; margin-right: 5px;}
+#righthead h3#twitter a{ width:22px; height:22px; background: url(../images/sprite01.gif) -238px 0px no-repeat; float: right; margin-right: 5px;}
+#righthead h3#linkedin a{ width:22px; height:22px; background: url(../images/sprite01.gif) -265px 0px no-repeat; float: right; margin-right: 10px;}
+#righthead h3#profile a:hover{ background-position:-84px -22px;}
+#righthead h3#contact a:hover{ background-position:-160px -22px;}
+#righthead h3#twitter a:hover{ background-position:-238px -22px;}
+#righthead h3#linkedin a:hover{ background-position:-265px -22px;}
+
+
+/* ____ only top ____ */
+#toplist li{ display:inline; margin:10px; font-size:0.9em;}
+#toplist{ margin:20px; font-size:1.2em; line-height:1.6;}
+
+#thumb_frame{ _width: 1100px;}
+#thumb_frame h2{ margin: 5px 0px; font-size: 1.4em; }
+#topthumb_web li p, #topthumb_go li p{ padding-bottom: 20px;}
+#topthumb_web li p:first-line, #topthumb_go li p:first-line{ padding-top: 2px; color: #000; font-weight: bold;}
+#topthumb_web li img, #topthumb_go li img{ text-align: center; margin: 10px; height: 81px; }
+
+#topthumb_web { text-align: left; width: 676px;  font-size: 1.1em; float:left; margin-left: 4px;}
+#topthumb_web ul{ width: 680px; /*margin-right: -4px; overflow: hidden; _zoom: 1;*/}
+#topthumb_web li{ display: inline; float: left; }
+#topthumb_web li a{ display:block; width: 132px; height: 101px; color:#999; text-decoration: none; font-weight: bold;
+background: url(../images/sprite01.gif) -6px -53px no-repeat; margin-right: 4px; margin-bottom: 2px; }
+
+#topthumb_go { text-align: left; width: 404px; font-size: 1.1em; float:left; margin-left: 4px;}
+#topthumb_go ul{ width:408px; /*margin-right: -4px; overflow: hidden; _zoom: 1;*/}
+#topthumb_go li{ display: inline; float: left; }
+#topthumb_go li a{ display:block; width: 132px; height: 101px; color:#999; text-decoration: none; font-weight: bold;
+background: url(../images/sprite01.gif) -154px -53px no-repeat; margin-right: 4px; margin-bottom: 2px; }
+
+	
+
+/* ____ common parts ____ */
+.hrgray { border-bottom: 1px solid #A9A9A9; background: transparent; margin:15px auto; padding:0px; height:1px; font-size: 1%; }
+.hrbr { border-bottom: 1px solid #8d735a; background: transparent; margin:15px auto; padding:0px; height:1px; font-size: 1%; }
+.txtindent{ margin:10px 0px 10px 50px;}
+
+/* ____ versatile elements ____ */
+h1,h2,h3,h4,h5,form,p,ul,ol,li{ margin:0; padding:0; }
+
+ul li{ list-style-type:none; }
+.list{ padding-left:20px; }
+	.list ul li{ list-style-type: disc;	margin-left:10px; }
+	.list ol li{ margin-left:15px; }
+
+.nowrap{ white-space: nowrap; }
+img{ border:0px none;}
+table img{ vertical-align:middle; }
+
+a{ color: #222;}
+
+/* ____ versatile class ____ */
+.rounded{ border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px;}  
+.button { display: inline-block; outline: none; cursor: pointer; text-align: center; text-decoration: none;
+	font: 12px/100% sans-serif;
+	font-weight: bold;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em;
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2); }
+.button:hover { text-decoration: none; }
+.button:active { position: relative; top: 1px; }
+
+/* green */
+.green {
+	color: #e8f0de;
+	border: solid 1px #538312;
+	background: #64991e;
+	background: -webkit-gradient(linear, left top, left bottom, from(#7db72f), to(#4e7d0e));
+	background: -moz-linear-gradient(top,  #7db72f,  #4e7d0e);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#7db72f', endColorstr='#4e7d0e'); }
+.green:hover {
+	background: #538018;
+	background: -webkit-gradient(linear, left top, left bottom, from(#6b9d28), to(#436b0c));
+	background: -moz-linear-gradient(top,  #6b9d28,  #436b0c);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#6b9d28', endColorstr='#436b0c'); }
+.green:active {
+	color: #a9c08c;
+	background: -webkit-gradient(linear, left top, left bottom, from(#4e7d0e), to(#7db72f));
+	background: -moz-linear-gradient(top,  #4e7d0e,  #7db72f);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#4e7d0e', endColorstr='#7db72f'); }
+
+
+
+/*float-clear */
+.cfl{ clear:both; height:0pt; line-height:0pt; font-size:1px; display:block; }
+/*clearfix */
+.clearfix:after{ clear:both; content:"."; display:block; height:0pt; visibility:hidden;}
+/*clearfix IE6用*/
+* html .clearfix { height:1%;}
+.clearfix { display:block;}
+
+/* ____ font size ____ */
+#header,#container,#footer,#copy,table{
+	font-size:x-small;
+	line-height:140%;
+	font-family:"Arial", "Lucida Grande", sans-serif; }
+
+* html #header,* html #container,* html #footer,* html #copy,* html table{
+/* ____ xml宣言なしの場合 winIE用 ____ */
+	font-size:xx-small;
+	line-height:140%;
+	font-family:"Arial", "Lucida Grande", sans-serif; }
+
+.alt{ position:absolute; top:-5000px; left:-999px;}
+
+/*eof*/

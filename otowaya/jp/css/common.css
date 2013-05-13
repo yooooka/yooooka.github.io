@@ -1,0 +1,208 @@
+@charset 'UTF-8';
+
+@import url("contents.css");
+
+body { color:#000; margin:0px; text-align:center; background:url(../images/bg.jpg) #FFF; }
+#container { width:800px; margin:0px auto; padding:0px; position:relative; }
+#container_inside { width:740px; margin:50px auto; padding:0px;}
+
+/* ____ header ____ */
+#head { height:100px; margin:0px 30px 50px 30px; background:url(../images/hptitle.gif) right top no-repeat;}	
+#head h1 a{ float:right; display:block; width:253px; height:100px; }	
+	
+/*____navi____*/
+#menu_common{ font-size:1.2em; float:left; text-align:left; width:300px; margin-right:10px;}
+#menu_common li a{ display:block; width:270px; height:20px; background:url(../images/mainmenu.gif) no-repeat;}
+
+#menu_common .hello a{background-position:30px 0px; padding-bottom:40px;}
+#menu_common .news a{background-position:30px -60px; padding-bottom:10px;}
+#menu_common .schedule a{background-position:30px -90px; padding-bottom:10px;}
+#menu_common .profile a{background-position:30px -120px; padding-bottom:10px;}
+#menu_common .ancestors a{background-position:30px -150px; padding-bottom:10px;}
+#menu_common .dictionary a{background-position:30px -180px; padding-bottom:10px;}
+#menu_common .books a{background-position:30px -210px; padding-bottom:10px;}
+#menu_common .quotes a{background-position:30px -240px; padding-bottom:10px;}
+#menu_common .links a{background-position:30px -270px; padding-bottom:10px;}
+#menu_common .supporters a{background-position:30px -300px; padding-bottom:10px;}
+
+#menu_common .hello a:hover{background-position:-271px 0px; padding-bottom:40px;}
+#menu_common .news a:hover{background-position:-271px -60px; padding-bottom:10px;}
+#menu_common .schedule a:hover{background-position:-271px -90px; padding-bottom:10px;}
+#menu_common .profile a:hover{background-position:-271px -120px; padding-bottom:10px;}
+#menu_common .ancestors a:hover{background-position:-271px -150px; padding-bottom:10px;}
+#menu_common .dictionary a:hover{background-position:-271px -180px; padding-bottom:10px;}
+#menu_common .books a:hover{background-position:-271px -210px; padding-bottom:10px;}
+#menu_common .quotes a:hover{background-position:-271px -240px; padding-bottom:10px;}
+#menu_common .links a:hover{background-position:-271px -270px; padding-bottom:10px;}
+#menu_common .supporters a:hover{background-position:-271px -300px; padding-bottom:10px;}
+
+#menu_common.menu00 .hello a, #menu_common.menu00 .hello a:hover{background-position:-271px 0px; padding-bottom:40px;}
+#menu_common.menu01 .news a, #menu_common.menu01 .news a:hover{background-position:-271px -60px; padding-bottom:10px;}
+#menu_common.menu02 .schedule a, #menu_common.menu02 .schedule a:hover{background-position:-271px -90px; padding-bottom:10px;}
+#menu_common.menu03 .profile a, #menu_common.menu03 .profile a:hover{background-position:-271px -120px; padding-bottom:10px;}
+#menu_common.menu04 .ancestors a, #menu_common.menu04 .ancestors a:hover{background-position:-271px -150px; padding-bottom:10px;}
+#menu_common.menu05 .dictionary a, #menu_common.menu05 .dictionary a:hover{background-position:-271px -180px; padding-bottom:10px;}
+#menu_common.menu06 .books a, #menu_common.menu06 .books a:hover{background-position:-271px -210px; padding-bottom:10px;}
+#menu_common.menu07 .quotes a, #menu_common.menu07 .quotes a:hover{background-position:-271px -240px; padding-bottom:10px;}
+#menu_common.menu08 .links a, #menu_common.menu08 .links a:hover{background-position:-271px -270px; padding-bottom:10px;}
+#menu_common.menu09 .supporters a, #menu_common.menu09 .supporters a a:hover{background-position:-271px -300px; padding-bottom:10px;}
+
+/*____sub navi news____*/
+#menu_common.menu01 ul span a{display:block; margin-left:0px; background:url(../images/submenu.gif) no-repeat; height:20px; width:170px;}
+#menu_common.menu01 span.n01 a{ background-position:0px -460px; padding-bottom:10px;}
+#menu_common.menu01 span.n02 a{ background-position:0px -488px; padding-bottom:10px;}
+
+#menu_common.menu01 span.n01 a:hover{ background-position:-196px -460px;}
+#menu_common.menu01 span.n02 a:hover{ background-position:-196px -488px;}
+
+#menu_common.menu01 .n01_on span.n01 a, #menu_common.menu01 .n01_on span.n01 a:hover{ background-position:-196px -460px;}
+#menu_common.menu01 .n02_on span.n02 a, #menu_common.menu01 .n02_on span.n02 a:hover{ background-position:-196px -488px;}
+p.n00, p.n01_on, p.n02_on{ margin-top:30px;}
+
+
+
+
+/*____sub navi profile____*/
+#menu_common.menu03 ul span a{ width:248px; display:block; margin-left:53px; background:url(../images/submenu.gif) no-repeat; height:11px; margin-bottom:2px;}
+#menu_common.menu03 span.p01 a{ background-position:0px -1px; padding-bottom:10px;}
+#menu_common.menu03 span.p02 a{ background-position:0px -22px; padding-bottom:10px;}
+#menu_common.menu03 span.p03 a{ background-position:0px -43px; padding-bottom:10px;}
+#menu_common.menu03 span.p04 a{ background-position:0px -64px; padding-bottom:10px;}
+
+#menu_common.menu03 span.p01 a:hover{ background-position:-301px -1px;}
+#menu_common.menu03 span.p02 a:hover{ background-position:-301px -22px;}
+#menu_common.menu03 span.p03 a:hover{ background-position:-301px -43px;}
+#menu_common.menu03 span.p04 a:hover{ background-position:-301px -64px;}
+
+#menu_common.menu03 .p01_on span.p01 a, #menu_common.menu03 .p01_on span.p01 a:hover{ background-position:-301px -1px;}
+#menu_common.menu03 .p02_on span.p02 a, #menu_common.menu03 .p02_on span.p02 a:hover{ background-position:-301px -22px;}
+#menu_common.menu03 .p03_on span.p03 a, #menu_common.menu03 .p03_on span.p03 a:hover{ background-position:-301px -43px;}
+#menu_common.menu03 .p04_on span.p04 a, #menu_common.menu03 .p04_on span.p04 a:hover{ background-position:-301px -64px;}
+p.p00, p.p01_on, p.p02_on, p.p03_on, p.p04_on{ margin-bottom:20px;}
+
+
+/*____sub navi ancestors____*/
+#menu_common.menu04 ul span a{ width:248px; display:block; margin-left:53px; background:url(../images/submenu.gif) no-repeat; height:11px; margin-bottom:2px;}
+#menu_common.menu04 span.a01 a{ background-position:0px -107px; padding-bottom:10px;}
+#menu_common.menu04 span.a02 a{ background-position:0px -128px; padding-bottom:10px;}
+#menu_common.menu04 span.a03 a{ background-position:0px -149px; padding-bottom:10px;}
+#menu_common.menu04 span.a04 a{ background-position:0px -170px; padding-bottom:10px;}
+#menu_common.menu04 span.a05 a{ background-position:0px -191px; padding-bottom:10px;}
+#menu_common.menu04 span.a06 a{ background-position:0px -212px; padding-bottom:10px;}
+
+#menu_common.menu04 span.a01 a:hover{ background-position:-301px -107px;}
+#menu_common.menu04 span.a02 a:hover{ background-position:-301px -128px;}
+#menu_common.menu04 span.a03 a:hover{ background-position:-301px -149px;}
+#menu_common.menu04 span.a04 a:hover{ background-position:-301px -170px;}
+#menu_common.menu04 span.a05 a:hover{ background-position:-301px -191px;}
+#menu_common.menu04 span.a06 a:hover{ background-position:-301px -212px;}
+
+#menu_common.menu04 .a01_on span.a01 a, #menu_common.menu04 .a01_on span.a01 a:hover{ background-position:-301px -107px;}
+#menu_common.menu04 .a02_on span.a02 a, #menu_common.menu04 .a02_on span.a02 a:hover{ background-position:-301px -128px;}
+#menu_common.menu04 .a03_on span.a03 a, #menu_common.menu04 .a03_on span.a03 a:hover{ background-position:-301px -149px;}
+#menu_common.menu04 .a04_on span.a04 a, #menu_common.menu04 .a04_on span.a04 a:hover{ background-position:-301px -170px;}
+#menu_common.menu04 .a05_on span.a05 a, #menu_common.menu04 .a05_on span.a05 a:hover{ background-position:-301px -191px;}
+#menu_common.menu04 .a06_on span.a06 a, #menu_common.menu04 .a06_on span.a06 a:hover{ background-position:-301px -212px;}
+p.a00, p.a01_on, p.a02_on, p.a03_on, p.a04_on, p.a05_on, p.a06_on{ margin-bottom:20px;}
+
+
+/*____sub navi books____*/
+#menu_common.menu06 ul span a{ width:248px; display:block; margin-left:53px; background:url(../images/submenu.gif) no-repeat; height:11px; margin-bottom:2px;}
+#menu_common.menu06 span.b01 a{ background-position:0px -259px; padding-bottom:10px;}
+#menu_common.menu06 span.b02 a{ background-position:0px -280px; padding-bottom:10px;}
+#menu_common.menu06 span.b03 a{ background-position:0px -301px; padding-bottom:10px;}
+#menu_common.menu06 span.b04 a{ background-position:0px -322px; padding-bottom:10px;}
+#menu_common.menu06 span.b05 a{ background-position:0px -343px; padding-bottom:10px;}
+#menu_common.menu06 span.b06 a{ background-position:0px -364px; padding-bottom:10px;}
+#menu_common.menu06 span.b07 a{ background-position:0px -385px; padding-bottom:10px;}
+#menu_common.menu06 span.b08 a{ background-position:0px -406px; padding-bottom:10px;}
+
+#menu_common.menu06 span.b01 a:hover{ background-position:-301px -259px;}
+#menu_common.menu06 span.b02 a:hover{ background-position:-301px -280px;}
+#menu_common.menu06 span.b03 a:hover{ background-position:-301px -301px;}
+#menu_common.menu06 span.b04 a:hover{ background-position:-301px -322px;}
+#menu_common.menu06 span.b05 a:hover{ background-position:-301px -343px;}
+#menu_common.menu06 span.b06 a:hover{ background-position:-301px -364px;}
+#menu_common.menu06 span.b07 a:hover{ background-position:-301px -385px;}
+#menu_common.menu06 span.b08 a:hover{ background-position:-301px -406px;}
+
+#menu_common.menu06 .b01_on span.b01 a, #menu_common.menu06 .b01_on span.b01 a:hover{ background-position:-301px -259px;}
+#menu_common.menu06 .b02_on span.b02 a, #menu_common.menu06 .b02_on span.b02 a:hover{ background-position:-301px -280px;}
+#menu_common.menu06 .b03_on span.b03 a, #menu_common.menu06 .b03_on span.b03 a:hover{ background-position:-301px -301px;}
+#menu_common.menu06 .b04_on span.b04 a, #menu_common.menu06 .b04_on span.b04 a:hover{ background-position:-301px -322px;}
+#menu_common.menu06 .b05_on span.b05 a, #menu_common.menu06 .b05_on span.b05 a:hover{ background-position:-301px -343px;}
+#menu_common.menu06 .b06_on span.b06 a, #menu_common.menu06 .b06_on span.b06 a:hover{ background-position:-301px -364px;}
+#menu_common.menu06 .b07_on span.b07 a, #menu_common.menu06 .b07_on span.b07 a:hover{ background-position:-301px -385px;}
+#menu_common.menu06 .b08_on span.b08 a, #menu_common.menu06 .b08_on span.b08 a:hover{ background-position:-301px -406px;}
+p.b00, p.b01_on, p.b02_on, p.b03_on, p.b04_on, p.b05_on, p.b06_on, p.b07_on, p.b08_on{ margin-bottom:20px;}
+
+	 
+/* ____ footer ____ */
+.copyright{ padding-top:40px; font-size:1.1em; text-align:right; color:#696969; font-family:Times, serif; width:740px; padding-right:30px;}
+.copyright p{ margin:0px 30px;}
+.fotternavi{ margin:0px auto; padding-top:0px; font-size:1.1em;}
+
+/* ____ common parts ____ */
+.hrgray { border-bottom: 1px solid #A9A9A9; background: transparent; margin:15px auto; padding:0px; height:1px; font-size: 1%; }
+.hrbr { border-bottom: 1px solid #8d735a; background: transparent; margin:15px auto; padding:0px; height:1px; font-size: 1%; }
+.txtindent{ margin:10px 0px 10px 50px;}
+
+.pagetop{ margin-bottom:10px; text-align:right;}
+.pagetop p{ margin-top:5px;}
+.pagetop a{ font-size:0.8em; font-family:"ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", sans-serif;}
+
+* html .pagetop a{font-family:"ＭＳ Ｐゴシック", sans-serif;}
+#acrobat_banner{ margin-top:10px;}
+
+/* ____ versatile elements ____ */
+h1,h2,h3,h4,h5,form,p,ul,ol,li,dt,dd{ margin:0; padding:0; }
+ul li{ list-style-type:none; }
+.list{ padding-left:5px; _padding-left:10px; }
+.list ul li{ list-style-type:disc; margin-left:10px; }
+.list ol li{ margin-left:15px; }
+.nowrap{ white-space: nowrap; }
+img{ border:0px none;}
+table img{ vertical-align:middle; }
+a{color:#887938; text-decoration:none;}
+a:hover{text-decoration:underline;}
+sup{font-size:70%; vertical-align:top;}
+
+/* ____ versatile class ____ */
+.floatleft{ float:left;}
+.floatright{ float:right;}
+.center{ text-align:center;}
+.left{ text-align:left;}
+.right{ text-align:right;}
+
+.inline div{ display:inline;}
+
+/*float-clear */
+.cfl{ clear:both; height:0pt; line-height:0pt; font-size:1px; display:block; }
+/*clearfix */
+.clearfix:after{ clear:both; content:"."; display:block; height:0pt; visibility:hidden;}
+.clearfix { display:block;}
+/*clearfix IE6用*/
+* html .clearfix { height:1%; zoom:1;}
+
+
+/* ____ font color ____ */
+.err{ color:#CC0000; font-weight:bold;}
+.ok{ color:#0000CC; font-weight:bold;}
+.bold{ font-weight:bold;}
+
+
+/* ____ font size ____ */
+#header,#container,#container_contents,#footer,table{
+	font-size:x-small;
+	line-height:1.4;
+	font-family: "ＭＳ Ｐ明朝", "ヒラギノ明朝 Pro W3", Times, Georgia, serif; }
+
+* html #header,* html #container,* html #container_contents,* html #footer,* html table{
+	font-size:x-small;
+	line-height:1.4;
+	font-family:"ＭＳ Ｐ明朝", Times, Georgia, serif;}
+	
+
+.alt{ position:absolute; top:-5000px; left:-999px;}
+
+/*eof*/

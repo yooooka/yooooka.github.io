@@ -1,0 +1,141 @@
+#en9, #en10, #en12 {
+	font-family:Arial, Verdana, sans-serif
+}
+#ja9, #ja10, #ja12, #ja14 {
+	font-family:Osaka, ‚l‚r ‚oƒSƒVƒbƒN, MS UI Gothic, sans-serif
+}
+
+body{
+	color:#333333;
+	background:#f1f1f1 url(../images/background.gif) repeat-y left top;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	}
+
+a:link {
+	color:#3C3C3C;
+	text-decoration:none;
+}
+a:visited {
+	color:#006699;
+	text-decoration:none;
+}
+a:hover , a:active {
+	color:#F74E0B;
+	text-decoration:underline;
+}
+
+#contents a:link {
+	color:#F74E0B;
+	text-decoration:none;
+}
+#contents a:visited {
+	color:#006699;
+	text-decoration:none;
+}
+#contents a:hover , #contents a:active {
+	color:#F74E0B;
+	text-decoration:underline;
+}
+#contents a.type1:link {
+	color:#3C3C3C;
+	text-decoration:none;
+}
+#contents a.type1:visited {
+	color:#006699;
+	text-decoration:none;
+}
+#contents a.type1:hover , #contents a.type1:active {
+	color:#F74E0B;
+	text-decoration:underline;
+}
+#contents div.history1 a:link {
+	color:#3C3C3C;
+	text-decoration:none;
+}
+#contents div.history1 a:visited {
+	color:#006699;
+	text-decoration:none;
+}
+#contents div.history1 a:hover , #contents div.history1 a:active {
+	color:#F74E0B;
+	text-decoration:underline;
+}
+
+#dvd a:link ,  {
+	color:#F74E0B;
+	text-decoration:none;
+}
+#dvd a:visited {
+	color:#006699;
+	text-decoration:none;
+}
+#dvd a:hover , #dvd a:active {
+	color:#F74E0B;
+	text-decoration:underline;
+}
+
+#fair a:link {
+	color:#F74E0B;
+	text-decoration:none;
+}
+#fair a:visited {
+	color:#006699;
+	text-decoration:none;
+}
+#fair a:hover , #fair a:active {
+	color:#F74E0B;
+	text-decoration:underline;
+}
+
+a.type2:link {
+	color:#006699;
+	text-decoration:none;
+}
+a.type2:visited {
+	color:#006699;
+	text-decoration:none;
+}
+a.type2:hover , a.type2:active {
+	color:#F74E0B;
+	text-decoration:underline;
+}
+
+
+
+#footer ul {
+	color:#b2b2b2;
+}
+#footer td.cell1 {
+	color:#666666;
+}
+#footer a:link{
+	color:#666666;
+	text-decoration:none;
+}
+#footer a:visited {
+	color:#006699;
+	text-decoration:none;
+}
+#footer a:hover , #footer a:active {
+	color:#F74E0B;
+	text-decoration:none;
+}
+
+.ore {
+	color:#f74e0b;
+}
+.red {
+	color:#b80029;
+}
+.red1 {
+	color:#cc0000;
+}
+.p1 {
+	color:#f34e0a;
+}
+.blu1 {
+	color:#2255cc;
+}

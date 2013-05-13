@@ -1,0 +1,89 @@
+
+<div class="sliderGallery rounded">
+<ul>
+<li><a href="/sample_web/web045.shtml"><img src="/images/thumb/shun_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web044.shtml"><img src="/images/thumb/skullsquad_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web043.shtml"><img src="/images/thumb/yntranslation_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web042.shtml"><img src="/images/thumb/ak100_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web041.shtml"><img src="/images/thumb/benefitc_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web040.shtml"><img src="/images/thumb/tactsearch_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web039.shtml"><img src="/images/thumb/linksharechannel_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web038.shtml"><img src="/images/thumb/treasurenet_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web037.shtml"><img src="/images/thumb/kyodo_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web036.shtml"><img src="/images/thumb/pinocchio_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web035.shtml"><img src="/images/thumb/uticket_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web034.shtml"><img src="/images/thumb/tvmono_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web033.shtml"><img src="/images/thumb/erc_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web032.shtml"><img src="/images/thumb/seitaihonpo_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web031.shtml"><img src="/images/thumb/shinjukuface_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web030.shtml"><img src="/images/thumb/livemaster_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web029.shtml"><img src="/images/thumb/nulltop_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web028.shtml"><img src="/images/thumb/groovy_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web027.shtml"><img src="/images/thumb/craftjapan_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web026.shtml"><img src="/images/thumb/tbs_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web025.shtml"><img src="/images/thumb/amazoncivil_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web024.shtml"><img src="/images/thumb/aruai_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web023.shtml"><img src="/images/thumb/doors_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web022.shtml"><img src="/images/thumb/pearls_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web021.shtml"><img src="/images/thumb/kowaiblog_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web020.shtml"><img src="/images/thumb/seacretwindow_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web019.shtml"><img src="/images/thumb/thepassion_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web018.shtml"><img src="/images/thumb/steamboy_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web017.shtml"><img src="/images/thumb/bigfish_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web016.shtml"><img src="/images/thumb/spiderman2_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web015.shtml"><img src="/images/thumb/infernal2_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web014.shtml"><img src="/images/thumb/implant_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web013.shtml"><img src="/images/thumb/inamerica_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web012.shtml"><img src="/images/thumb/charliesangels2_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web011.shtml"><img src="/images/thumb/goddiva_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web010.shtml"><img src="/images/thumb/enigma_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web009.shtml"><img src="/images/thumb/intacto_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web008.shtml"><img src="/images/thumb/identity_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web007.shtml"><img src="/images/thumb/infernal1_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web006.shtml"><img src="/images/thumb/alex_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web005.shtml"><img src="/images/thumb/whiteoleander_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web004.shtml"><img src="/images/thumb/moonlightmile_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web003.shtml"><img src="/images/thumb/k19_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web002.shtml"><img src="/images/thumb/hotel_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_web/web001.shtml"><img src="/images/thumb/foxmovies_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go028.shtml"><img src="/images/thumb/thelittleprince_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go027.shtml"><img src="/images/thumb/ja_invitation_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go026.shtml"><img src="/images/thumb/ja_std_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go025.shtml"><img src="/images/thumb/wovenlight_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go024.shtml"><img src="/images/thumb/bonsaiauction_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go023.shtml"><img src="/images/thumb/tackysmack1_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go022.shtml"><img src="/images/thumb/tackysmack2_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go021.shtml"><img src="/images/thumb/tackysmack3_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go020.shtml"><img src="/images/thumb/tackysmack4_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go019.shtml"><img src="/images/thumb/yntranslationlogo_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go018.shtml"><img src="/images/thumb/youmaga_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go017.shtml"><img src="/images/thumb/uticketlogo_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go016.shtml"><img src="/images/thumb/livemasterlogo_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go015.shtml"><img src="/images/thumb/telemorulogo_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go014.shtml"><img src="/images/thumb/departure_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go013.shtml"><img src="/images/thumb/kikaimart_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go012.shtml"><img src="/images/thumb/mitsubishirayon_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go011.shtml"><img src="/images/thumb/nagomi1_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go010.shtml"><img src="/images/thumb/dupont_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go009.shtml"><img src="/images/thumb/yukijirushi1_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go008.shtml"><img src="/images/thumb/yukijirushi2_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go007.shtml"><img src="/images/thumb/yukijirushi3_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go006.shtml"><img src="/images/thumb/yukijirushi4_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go005.shtml"><img src="/images/thumb/yukijirushi5_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go004.shtml"><img src="/images/thumb/sasazuke_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go003.shtml"><img src="/images/thumb/nagomi2_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go002.shtml"><img src="/images/thumb/mccormick_t.jpg" alt="Thumbnail" /></a></li>
+<li><a href="/sample_go/go001.shtml"><img src="/images/thumb/isetan_t.jpg" alt="Thumbnail" /></a></li>
+</ul>
+<div class="slider_outer">
+  <div class="slider">
+    <!-- the handler to action the slide -->
+    <div class="handle"></div>
+    <!-- labels appear against the slider, as pointers to the user -->
+    <span class="slider-lbl1">Web</span>
+    <span class="slider-lbl2">Graphics</span>
+  </div>
+</div>
+ 
+</div>
+

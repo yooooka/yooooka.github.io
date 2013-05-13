@@ -1,0 +1,141 @@
+/* Slightly modified to prevent anchor elements from losing outline, as in HTML5 Boilerplate */
+
+div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size:small;
+line-height:1.6;
+font-family: "Arial", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", sans-serif;
+vertical-align: baseline;
+}
+
+body{ margin: 10px 0 0 0;
+background:#000;
+/* text-align: center; */
+position: relative;
+}
+
+a {
+margin: 0;
+padding: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+cursor: pointer;
+}
+
+footer{ margin-top: 20px;}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+display: block;
+}
+
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: '';
+content: none;
+}
+
+/* remember to define visible focus styles! 
+:focus {
+outline: ;
+} */
+
+/* remember to highlight inserts somehow! */
+ins{
+text-decoration: none;
+}
+del{
+text-decoration: line-through;
+}
+
+table{
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+/* Navi */
+
+nav li{ position: absolute; top: 512px; height: 94px;}
+li.uni{ left: 74px; width: 106px; }
+li.od{ left: 192px; width: 106px; }
+li.icf{ left: 308px; width: 227px; }
+li.scn{ left: 544px; width: 107px; }
+li.dplus{ left: 661px; width: 256px; }
+li.tbs{ left: 1015px; width: 107px; }
+li.jen{ left: 1369px; width: 76px; }
+li.vxd01{ left: 1686px; width: 54px; }
+li.gc{ left: 1754px; width: 52px; }
+li.vxd02{ left: 1807px; width: 52px; }
+
+
+nav li:hover, li.active{ background: url(../images/navion.png) no-repeat 0 0; cursor: pointer;}
+
+li.uni:hover, li.uni.active{ background-position: 0 0;}
+li.od:hover, li.od.active{ background-position: -118px 0 ;}
+li.icf:hover, li.icf.active{ background-position: -234px 0 ;}
+li.scn:hover, li.scn.active{ background-position: -471px 0 ;}
+li.dplus:hover, li.dplus.active{ background-position: -588px 0 ;}
+li.tbs:hover, li.tbs.active{ background-position: -941px 0 ;}
+li.jen:hover, li.jen.active{ background-position: -1296px 0 ;}
+li.vxd01:hover, li.vxd01.active{ background-position: -1612px 0 ;}
+li.gc:hover, li.gc.active{ background-position: -1680px 0 ;}
+li.vxd02:hover, li.vxd02.active{ background-position: -1733px 0 ;}
+
+
+
+/* Contents */
+
+#unidetail{
+position: absolute; top: 30px; left: 74px;}
+#oddetail{
+position: absolute; top: 30px; left: 192px;}
+#icfdetail{
+position: absolute; top: 30px; left: 308px;}
+#scndetail{
+position: absolute; top: 230px; left: 544px;}
+#dplusdetail{
+position: absolute; top: 30px; left: 661px;}
+#tbsdetail{
+position: absolute; top: 30px; left: 1015px;}
+#jendetail{
+position: absolute; top: 30px; left: 1369px;}
+#vxd01detail{
+position: absolute; top: 30px; left: 1369px;}
+#gcdetail{
+position: absolute; top: 30px; left: 1369px;}
+#vxd02detail{
+position: absolute; top: 30px; left: 1369px;}
+
+
+#projects{ width: 520px; margin: 0 auto;  padding-top:200px; text-align: center;}
+#projects a img{ float: left; padding-right: 50px;}
+
+
+.alt{
+position:absolute;
+top:-999999px;
+left:-999999px;
+}
+

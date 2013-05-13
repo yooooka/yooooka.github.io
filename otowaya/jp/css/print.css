@@ -1,0 +1,15 @@
+@charset 'UTF-8';
+
+
+#menu_common, #menu_profile, #menu_ancestors, #menu_books{ display:none;}
+img{ border:0px none;}
+
+/* ____ font ____ */
+
+#header,#container,#container_contents,#footer,table{
+font-family:georgia, times,"ＭＳ 明朝", "ヒラギノ明朝 Pro W3", serif;  }
+* html #header,* html #container,* html #container_contents,* html #footer,* html table{
+font-family:georgia, times,"ＭＳ 明朝", "ヒラギノ明朝 Pro W3", serif;  }
+
+/*eof*/
+

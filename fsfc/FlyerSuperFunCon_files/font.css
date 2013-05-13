@@ -1,0 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica);
+@import url(http://fonts.googleapis.com/css?family=UnifrakturMaguntia);
+
+body, .ui-widget-content, button, input,textarea, select, .ui-widget button { color: #000;
+	font-family:IM Fell DW Pica, Arial, serif; text-shadow: 1px 1px 1px #fff6d6;
+	font-size:1.05em;
+}
+
+h1{ font-family: 'UnifrakturMaguntia', Arial, serif; }

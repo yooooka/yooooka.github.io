@@ -1,0 +1,21 @@
+@charset 'UTF-8';
+
+
+body { color:#222;}
+
+#topnavi, #navi, #mapbtn{ display:none;}
+
+
+
+/* ____ font ____ */
+
+#header,#container,#footer,#copy,table{
+font-family:"Verdana", "Lucida Grande", sans-serif; }
+
+
+* html #header,* html #container,* html #footer,* html #copy,
+* html table{
+font-family:"Verdana", "Lucida Grande", sans-serif; }
+
+/*eof*/
+

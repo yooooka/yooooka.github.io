@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<title>Web and Graphic Designer / Yoshiko Oka</title>
+<link rel="stylesheet" type="text/css" href="/css/common.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<script type="text/javascript" src="/jquery/jquery-1.2.6.js"></script>
+<script type="text/javascript" src="/jquery/jquery-ui-full-1.5.2.min.js"></script>
+<script type="text/javascript" src="/jquery/jquery.corner.js"></script>
+<script type="text/javascript" src="/jquery/allfunctions.js"></script>
+</head>
+
+<body>
+<div id="container">
+<div id="container_inner">
+	
+<!--#include virtual="/ssi/header.txt" -->
+
+<div class="sampleframe_outer">
+<div class="sampleframe_web clearfix rounded">
+<div class="sampleimg">
+<img src="/images/samples/pearls01.jpg" alt="pearls01" />
+<img src="/images/samples/pearls02.jpg" alt="pearls02" class="mrg10" />
+</div>
+<div class="explanation">
+<h2>Pearls</h2>
+<p class="year">2005, Design, Coding</p>
+<p>Created the site to promote an exhibition with a web director.</p>
+<!--#include virtual="/ssi/backtop.txt" -->
+</div>
+</div>
+
+<!--#include virtual="/ssi/slidenavi_w.txt" -->
+
+</div>
+</div>
+<!--#include virtual="/ssi/contact.txt" -->
+</div>
+</body>
+</html>
