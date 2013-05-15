@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/yukijirushi201.jpg
 layout: sample
-permalink: /samples/yukijirushi-prune-yogurt.html
 sample_link: ''
 tags:
 - Design

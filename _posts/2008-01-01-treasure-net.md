@@ -1,13 +1,12 @@
 ---
-layout: sample
 category: web
-permalink: /samples/treasure-net.html
-title: Treasure Net
-tags:
-- Design
 images:
 - /images/samples/treasurenet01.jpg
+layout: sample
+sample_link: ''
+tags:
+- Design
 thumb: /images/thumb/treasurenet_t.jpg
-sample_link: ""
+title: Treasure Net
 ---
 Created the site for a securities trading company.

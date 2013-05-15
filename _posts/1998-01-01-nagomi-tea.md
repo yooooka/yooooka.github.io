@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/nagomi201.jpg
 layout: sample
-permalink: /samples/nagomi-tea.html
 sample_link: ''
 tags:
 - Design

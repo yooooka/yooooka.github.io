@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/tackysmack01.jpg
 layout: sample
-permalink: /samples/tacky-smack.html
 sample_link: http://tackysmack.com/product/597/camellia
 tags:
 - Design

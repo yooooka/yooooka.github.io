@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/dupont01.jpg
 layout: sample
-permalink: /samples/dupont-baby-clean.html
 sample_link: ''
 tags:
 - Design

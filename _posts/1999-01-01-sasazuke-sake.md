@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/sasazuke01.jpg
 layout: sample
-permalink: /samples/sasazuke-sake.html
 sample_link: ''
 tags:
 - Conceptual design

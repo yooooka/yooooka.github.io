@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/telemorulogo01.jpg
 layout: sample
-permalink: /samples/telemoru-week-logo.html
 sample_link: ''
 tags:
 - Design

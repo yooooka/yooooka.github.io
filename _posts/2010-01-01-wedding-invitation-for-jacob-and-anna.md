@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/ja_invitation.jpg
 layout: sample
-permalink: /samples/wedding-invitation-for-jacob-and-anna.html
 sample_link: ''
 tags:
 - Design

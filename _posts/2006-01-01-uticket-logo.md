@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/uticketlogo01.jpg
 layout: sample
-permalink: /samples/uticket-logo.html
 sample_link: ''
 tags:
 - Design

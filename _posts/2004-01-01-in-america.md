@@ -1,13 +1,12 @@
 ---
-layout: sample
 category: web
-permalink: /samples/in-america.html
-title: In America
+images:
+- /images/samples/inamerica01.jpg
+layout: sample
 tags:
 - Design
 - Coding
-images:
-- /images/samples/inamerica01.jpg
 thumb: /images/thumb/inamerica_t.jpg
+title: In America
 ---
 Designed and coded this site.

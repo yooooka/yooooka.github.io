@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/livemasterlogo01.jpg
 layout: sample
-permalink: /samples/live-master-logo.html
 sample_link: ''
 tags:
 - Design

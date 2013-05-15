@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/mitsubishirayon01.jpg
 layout: sample
-permalink: /samples/mitsubishi-rayon.html
 sample_link: ''
 tags:
 - Design

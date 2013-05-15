@@ -1,15 +1,14 @@
 ---
-layout: sample
 category: web
-permalink: /samples/infernal-affairs-i.html
-title: Infernal Affairs I
+images:
+- /images/samples/infernal101.jpg
+- /images/samples/infernal102.jpg
+layout: sample
 tags:
 - Planning
 - Management
 - Design
-images:
-- /images/samples/infernal101.jpg
-- /images/samples/infernal102.jpg
 thumb: /images/thumb/infernal1_t.jpg
+title: Infernal Affairs I
 ---
 I planned and managed the movie's official site. I collaborated with another designer to create the visual design frame.

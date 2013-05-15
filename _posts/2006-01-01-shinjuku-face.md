@@ -1,14 +1,13 @@
 ---
-layout: sample
 category: web
-permalink: /samples/shinjuku-face.html
-title: Shinjuku Face
+images:
+- /images/samples/shinjukuface01.jpg
+layout: sample
 tags:
 - Design
 - Coding
 - Flash
-images:
-- /images/samples/shinjukuface01.jpg
 thumb: /images/thumb/shinjukuface_t.jpg
+title: Shinjuku Face
 ---
 Created the site for the company, which provide their space for special events such as music concert and wrestling.

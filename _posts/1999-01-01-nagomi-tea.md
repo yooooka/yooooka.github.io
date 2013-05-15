@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/nagomi101.jpg
 layout: sample
-permalink: /samples/nagomi-tea.html
 sample_link: ''
 tags:
 - Conceptual design

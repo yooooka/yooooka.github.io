@@ -1,14 +1,13 @@
 ---
-layout: sample
 category: web
-permalink: /samples/passion-of-christ.html
-title: The Passion of Christ
+images:
+- /images/samples/thepassion01.jpg
+layout: sample
 tags:
 - Planning
 - Design
 - Coding
-images:
-- /images/samples/thepassion01.jpg
 thumb: /images/thumb/thepassion_t.jpg
+title: The Passion of Christ
 ---
 Planned and built the website for the movie promotion.

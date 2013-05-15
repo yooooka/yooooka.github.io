@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/yukijirushi401.jpg
 layout: sample
-permalink: /samples/yukijirushi-all-in-one.html
 sample_link: ''
 tags:
 - Conceptual design

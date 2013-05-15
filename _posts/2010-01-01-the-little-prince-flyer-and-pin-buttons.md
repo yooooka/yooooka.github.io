@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/thelittleprince.jpg
 layout: sample
-permalink: /samples/the-little-prince-flyer-and-pin-buttons.html
 sample_link: ''
 tags:
 - Design

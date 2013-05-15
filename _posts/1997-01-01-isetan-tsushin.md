@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/isetan01.jpg
 layout: sample
-permalink: /samples/isetan-tsushin.html
 sample_link: ''
 tags:
 - Design

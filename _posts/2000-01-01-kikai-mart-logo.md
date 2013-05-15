@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/kikaimart01.jpg
 layout: sample
-permalink: /samples/kikai-mart-logo.html
 sample_link: ''
 tags:
 - Design

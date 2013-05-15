@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/yukijirushi101.jpg
 layout: sample
-permalink: /samples/yukijirushi-baked-cheese-cake.html
 sample_link: ''
 tags:
 - Design

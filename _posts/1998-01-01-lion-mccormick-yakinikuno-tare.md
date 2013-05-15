@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/mccormick01.jpg
 layout: sample
-permalink: /samples/lion-mccormick-yakinikuno-tare.html
 sample_link: ''
 tags:
 - Design

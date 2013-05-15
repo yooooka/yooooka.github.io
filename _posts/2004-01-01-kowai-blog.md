@@ -1,13 +1,12 @@
 ---
-layout: sample
 category: web
-permalink: /samples/kowai-blog.html
-title: Kowai Blog
+images:
+- /images/samples/kowaiblog01.jpg
+layout: sample
 tags:
 - Planning
 - Design
-images:
-- /images/samples/kowaiblog01.jpg
 thumb: /images/thumb/kowaiblog_t.jpg
+title: Kowai Blog
 ---
 Planned and built this blog to promote horror DVDs as a web designer. Worked with a programmer to created it with MovableType.

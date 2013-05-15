@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/bonsaiauction01.jpg
 layout: sample
-permalink: /samples/bonsai-auction.html
 sample_link: ''
 tags:
 - Design

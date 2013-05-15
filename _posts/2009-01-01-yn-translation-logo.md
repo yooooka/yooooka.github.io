@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/yntranslationlogo01.jpg
 layout: sample
-permalink: /samples/yn-translation-logo.html
 sample_link: ''
 tags:
 - Design

@@ -1,14 +1,13 @@
 ---
-layout: sample
 category: web
-permalink: /samples/infernal-affairs-ii.html
-title: Infernal Affairs II
+images:
+- /images/samples/infernal201.jpg
+layout: sample
 tags:
 - Planning
 - Management
 - Design
-images:
-- /images/samples/infernal201.jpg
 thumb: /images/thumb/infernal2_t.jpg
+title: Infernal Affairs II
 ---
 Planned and managed the movie's official site. Collaborated with another designer to create the visual design frame.

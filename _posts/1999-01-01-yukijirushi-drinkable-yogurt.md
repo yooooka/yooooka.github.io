@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/yukijirushi301.jpg
 layout: sample
-permalink: /samples/yukijirushi-drinkable-yogurt.html
 sample_link: ''
 tags:
 - Design

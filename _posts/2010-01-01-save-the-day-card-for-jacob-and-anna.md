@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/ja_std.jpg
 layout: sample
-permalink: /samples/save-the-day-card-for-jacob-and-anna.html
 sample_link: ''
 tags:
 - Design
