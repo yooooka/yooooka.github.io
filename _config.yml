@@ -1,2 +1,3 @@
 timezone:    Asia/Tokyo
 redirects:   yes
+permalink: /samples/:title

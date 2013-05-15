@@ -1,7 +1,6 @@
 ---
 layout: sample
 category: web
-permalink: /samples/shun-retaurant.html
 title: Shun Japanese Restaurant
 tags:
 - Planning
