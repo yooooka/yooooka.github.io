@@ -7,4 +7,3 @@ for fn in os.listdir('.'):
         doc = JDoc(fn)
         doc.data.pop('permalink', None)
         doc.save()
-        exit(1)
