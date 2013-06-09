@@ -1,4 +1,6 @@
 ---
+title: Benefit Concert for Seattle Community Law Center
+tit: Benefit Concert
 category: web
 images:
 - /images/samples/benefitconcert01.jpg
@@ -9,6 +11,5 @@ tags:
 - Design
 - Coding
 thumb: /images/thumb/benefitc_t.jpg
-title: Benefit Concert for Seattle Community Law Center
 ---
 Created the site to promote a classical music performance.

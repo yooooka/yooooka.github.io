@@ -7,6 +7,6 @@ sample_link: ''
 tags:
 - Design
 thumb: /images/thumb/yntranslationlogo_t.jpg
-title: YN Translation Logo
+title: YN Logo
 ---
 A logo created for a translation company.

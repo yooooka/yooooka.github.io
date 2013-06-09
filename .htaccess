@@ -1,9 +1,0 @@
-DirectoryIndex  index.html  index.shtml  index.htm
-Options +Includes
-#AddType text/html .shtml
-#AddOutputFilter INCLUDES .shtml
-
-RewriteEngine on
-RewriteCond %{HTTP_HOST}   !^yoshiko\.901farm\.com [NC]
-#RewriteCond %{HTTP_HOST}   !^$
-RewriteRule ^(.*)$         http://yoshiko.901farm.com/$1 [L,R=301]

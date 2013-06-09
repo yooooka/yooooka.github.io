@@ -1,4 +1,6 @@
 ---
+title: Shun Japanese Restaurant
+tit: Shun Restaurant
 category: web
 images:
 - /images/samples/shun.jpg
@@ -9,6 +11,5 @@ tags:
 - Design
 - Coding
 thumb: /images/thumb/shun_t.jpg
-title: Shun Japanese Restaurant
 ---
 Created the site for the Japanese reataurant in Seattle.

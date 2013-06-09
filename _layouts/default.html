@@ -8,20 +8,20 @@
         <title>Web and Graphic Designer / Yoshiko Oka</title>
         <link rel="stylesheet" type="text/css" href="/css/common.css" media="screen" />
         <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        {% for f in page.css %}
+        <link rel="stylesheet" type="text/css" href="{{ f }}" media="screen" />
+        {% endfor %}
         <link rel="shortcut icon" href="/favicon.ico" />
         <script type="text/javascript" src="/jquery/jquery-1.4.2.js"></script>
         <script type="text/javascript" src="/jquery/jquery-ui-1.8.1.custom.min.js"></script>
         <script type="text/javascript" src="/jquery/top.js"></script>
-
-        <!--<script type="text/javascript" src="/jquery/jquery.corner.js"></script>-->
-        <!--<script type="text/javascript" src="/jquery/allfunctions.js"></script>-->
     </head>
     <body>
         <div id="righthead">
             <h3 id="linkedin"><a href="http://www.linkedin.com/in/yooooka" target="_blank"><span class="alt">Linkedin</span></a></h3>
             <h3 id="twitter"><a href="http://twitter.com/yooooka" target="_blank"><span class="alt">Twitter</span></a></h3>
-            <h3 id="contact"><a href="/contact.shtml"><span class="alt">Contact</span></a></h3>
-            <h3 id="profile"><a href="/profile.shtml"><span class="alt">Profile</span></a></h3>
+            <h3 id="contact"><a href="/contact.html"><span class="alt">Contact</span></a></h3>
+            <h3 id="profile"><a href="/profile.html"><span class="alt">Profile</span></a></h3>
         </div>
         <div id="container">
             <div id="container_inner">
