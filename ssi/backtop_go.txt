@@ -1,6 +1,0 @@
-<div id="nextpre">
-<a href="javascript:nextPgG(-1)" class="main">Next</a>	
-</div>
-<div class="backtop">
-<a href="/">Back top</a>
-</div>	
