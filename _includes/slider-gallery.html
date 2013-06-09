@@ -1,7 +1,14 @@
 <div class="sliderGallery rounded">
   <ul>
     {% for post in site.posts %}
-    <li><a href="{{post.url}}"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></a></li>
+      {% if post.category == 'web' %}
+      <li><a href="{{post.url}}"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></a></li>
+      {% endif %}
+    {% endfor %}
+    {% for post in site.posts %}
+      {% if post.category == 'go' %}
+      <li><a href="{{post.url}}"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></a></li>
+      {% endif %}
     {% endfor %}
   </ul>
   <div class="slider_outer">
