@@ -8,7 +8,7 @@ tags:
 - Design
 - Coding
 - Drupal
-thumb: http://yoshiko.901farm.kaki/images/thumb/skullsquad_t.jpg
+thumb: /images/thumb/skullsquad_t.jpg
 title: Skullsquadron
 ---
 Created the site for the web developing company. Built with Drupal.
