@@ -29,9 +29,15 @@
             </div>
         </div>
     </body>
-    <script type="text/javascript" src="/jquery/jquery-1.4.2.js"></script>
-    <script type="text/javascript" src="/jquery/jquery-ui-1.8.1.custom.min.js"></script>
-    <script type="text/javascript" src="/jquery/top.js"></script>
+    {% if page.js == empty %}
+        <script type="text/javascript" src="/jquery/jquery-1.4.2.js"></script>
+        <script type="text/javascript" src="/jquery/jquery-ui-1.8.1.custom.min.js"></script>
+        <script type="text/javascript" src="/jquery/top.js"></script>
+    {% else %}
+        {% for f in page.js %}
+        <script type="text/javascript" src="{{ f }}"></script>
+        {% endfor %}
+    {% endif %}
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-182799-3']);
