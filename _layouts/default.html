@@ -12,6 +12,16 @@
         <link rel="stylesheet" type="text/css" href="{{ f }}" media="screen" />
         {% endfor %}
         <link rel="shortcut icon" href="/favicon.ico" />
+        {% if page.js %}
+        {% for f in page.js %}
+        <script type="text/javascript" src="{{ f }}"></script>
+        {% endfor %}
+    {% else %}
+        <script type="text/javascript" src="/jquery/jquery-1.4.2.js"></script>
+        <script type="text/javascript" src="/jquery/jquery-ui-1.8.1.custom.min.js"></script>
+        <script type="text/javascript" src="/jquery/top.js"></script>
+    {% endif %}
+
     </head>
     <body>
         <div id="righthead">
@@ -29,15 +39,6 @@
             </div>
         </div>
     </body>
-    {% if page.js %}
-        {% for f in page.js %}
-        <script type="text/javascript" src="{{ f }}"></script>
-        {% endfor %}
-    {% else %}
-        <script type="text/javascript" src="/jquery/jquery-1.4.2.js"></script>
-        <script type="text/javascript" src="/jquery/jquery-ui-1.8.1.custom.min.js"></script>
-        <script type="text/javascript" src="/jquery/top.js"></script>
-    {% endif %}
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-182799-3']);
