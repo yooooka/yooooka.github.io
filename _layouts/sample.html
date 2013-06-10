@@ -17,10 +17,12 @@ js:
             <h2>{{ page.title }}</h2>
             <p class="year">{{ page.date | date: "%Y" }}, {{ page.tags | join: ", "}}</p>
             {{ content }}
-            <a href="{{ page.sample_link }}" target="_blank">{{ page.sample_link }}</a>
-            {% if page.next.url %}
-            <div id="nextpre"><a href="{{ page.next.url }}" class="main">Next</a></div>
+            {% if page.sample_link %}
+              <a href="{{ page.sample_link }}" target="_blank">{{ page.sample_link }}</a>
             {% endif %}
+
+            {% include next-post.html %}
+
             <div class="backtop">
                 <a href="/">Back top</a>
             </div>
