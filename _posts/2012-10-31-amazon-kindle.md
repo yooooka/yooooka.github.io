@@ -5,10 +5,14 @@ category: web
 images:
 - /images/samples/kindle.jpg
 layout: sample
-sample_link:
-- www.amazon.co.jp/
-- www.amazon.co.jp/kindlefirehd
-- www.amazon.co.jp/kindlepaperwhite
+sample_link: www.amazon.co.jp/
+sample_links:
+- src: www.amazon.co.jp/
+  txt: Amazon JP storefront
+- src: www.amazon.co.jp/kindlefirehd
+  txt: Kindle Fire HD detail page
+- src: www.amazon.co.jp/kindlepaperwhite
+  txt: Kindle Paperwhite detail page
 tags:
 - Marketing design
 thumb: /images/thumb/amazon-kindle_t.jpg

@@ -4,7 +4,7 @@ images:
 - /images/samples/ak10001.jpg
 - /images/samples/ak10002.jpg
 layout: sample
-sample_link: http://www.ak100wt.com/
+sample_link: www.ak100wt.com/
 tags:
 - Design
 - Coding

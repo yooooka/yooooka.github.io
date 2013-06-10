@@ -6,7 +6,6 @@ images:
 - /images/samples/benefitconcert01.jpg
 - /images/samples/benefitconcert02.jpg
 layout: sample
-sample_link: ''
 tags:
 - Design
 - Coding

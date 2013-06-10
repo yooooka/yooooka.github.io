@@ -3,7 +3,7 @@ category: web
 images:
 - /images/samples/linkshare01.jpg
 layout: sample
-sample_link: http://ch.linkshare.ne.jp/
+sample_link: ch.linkshare.ne.jp
 tags:
 - Design
 - Coding

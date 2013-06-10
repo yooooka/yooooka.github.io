@@ -8,25 +8,33 @@ js:
 ---
 <div class="sampleframe_outer">
   <div class="sampleframe_{{ page.category }} clearfix rounded">
-        <div class="sampleimg">
-            {% for image in page.images %}
-            <a href="{{ page.sample_link }}" target="_blank"><img src="{{ image }}" alt="{{ page.title }}" /></a>
-            {% endfor %}
-        </div>
-        <div class="explanation">
-            <h2>{{ page.title }}</h2>
-            <p class="year">{{ page.date | date: "%Y" }}, {{ page.tags | join: ", "}}</p>
-            {{ content }}
-            {% if page.sample_link %}
-              <a href="{{ page.sample_link }}" target="_blank">{{ page.sample_link }}</a>
-            {% endif %}
-
-            {% include next-post.html %}
-
-            <div class="backtop">
-                <a href="/">Back top</a>
-            </div>
-        </div>
+    <div class="sampleimg">
+      {% for image in page.images %}
+        {% if page.sample_link %}
+          <a href="http://{{ page.sample_link }}" target="_blank"><img src="{{ image }}" alt="{{ page.title }}" /></a>
+        {% else %}
+          <img src="{{ image }}" alt="{{ page.title }}" />
+        {% endif %}
+      {% endfor %}
     </div>
-    {% include slider-gallery.html %}
+    <div class="explanation">
+      <h2>{{ page.title }}</h2>
+      <p class="year">{{ page.date | date: "%Y" }}, {{ page.tags | join: ", "}}</p>
+      {{ content }}
+      {% if page.sample_links %}
+        {% for l in page.sample_links %}
+          <p><a href="http://{{ l.src }}" target="_blank">{{ l.txt }}</a></p>
+        {% endfor %}
+      {% else if page.sample_link %}
+        <a href="http://{{ page.sample_link }}" target="_blank">{{ page.sample_link }}</a>
+      {% endif %}
+
+      {% include next-post.html %}
+
+      <div class="backtop">
+        <a href="/">Back top</a>
+      </div>
+    </div>
+  </div>
+  {% include slider-gallery.html %}
 </div>

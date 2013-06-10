@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/departure01.jpg
 layout: sample
-sample_link: ''
 tags:
 - Design
 - Logo
