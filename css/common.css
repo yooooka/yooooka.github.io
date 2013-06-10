@@ -1,5 +1,54 @@
 @charset 'UTF-8';
-@import url("contents.css");
+
+.sampleframe_outer p{margin-bottom: 5px;}
+.profilepic > img {border: 1px solid #DEDEDE;}
+
+.sampleframe_web{ position: relative; margin: 15px 4px; padding: 10px; background: #C3D72C; font-size: 1.4em; line-height: 1.4; width: 1062px; _width:1082px;}
+.sampleframe_go, .contactframe{ position: relative; margin: 15px 4px; padding: 10px; background: #6FB92C; font-size: 1.4em; line-height: 1.4; width: 1062px; _width:1082px;}
+.contactframe_form{ position: relative; margin: 15px 4px; padding: 10px; background: #C3D72C url(../images/contactbg.jpg) right 10px no-repeat; font-size: 1.4em; line-height: 1.4; width: 1062px; _width:1082px;}
+
+.sampleimg img {border: 1px solid #DEDEDE;margin:5px 0;}
+.sampleframe_web .sampleimg, .sampleframe_go .sampleimg{ float: left; width: 680px;margin:0 5px;}
+.sampleframe_web img.mrg10, .sampleframe_go img.mrg10{ margin-top: 10px;}
+
+.explanation{ text-align: left; margin-left: 15px; float: left; width: 350px;}
+.explanation h2{ margin-bottom: 15px; margin-top: 2px;}
+.explanation .year{ color:#FFF; text-decoration: none; font-weight: bold; margin-bottom: 5px;}
+
+.sliderGallery {  position: relative;background: #FFF url(../images/ruler_w.gif) 0px 96px no-repeat; overflow: hidden; padding: 0px; height: 132px; width: 1082px; margin-left: 4px; margin-bottom: 30px; }
+.sliderGallery ul { position: absolute; list-style: none; overflow: none;  white-space: nowrap; padding: 8px 4px; margin: 0; }
+.sliderGallery ul li { display: inline; }
+.sliderGallery ul li img{ margin:0px 4px;  border: 1px solid #CECEC7;}
+.sliderGallery ul li img:hover{ -moz-opacity:.60; filter:alpha(opacity=60); opacity:.60;}
+
+.slider_outer{position: absolute; top: 100px;}
+.slider { width: 1066px; height: 24px; margin-top: 0px; margin-left: 8px; position: relative;}
+.handle { position: absolute; cursor: pointer; height: 24px; width: 73px; top: 0;
+ background: url(../images/handle.gif) 0px 0px no-repeat; z-index: 100; -moz-opacity:.50; filter:alpha(opacity=50); opacity:.50;}
+
+.slider span {color: #000; font-size: 1.1em; cursor: pointer; position: absolute; z-index: 110; top:6px; font-weight: bold;}
+.slider .slider-lbl1 {left: 28px; }
+.slider .slider-lbl2 {left: 737px; }
+
+.backtop a{ position: absolute; bottom: 12px; right: 12px; color: #000; font-size: 0.9em; background: url(../images/arrow_l.gif) 2px -4px no-repeat; width:5.7em; display: block; text-align: right;}
+#nextpre{ margin-top: 10px; font-size: 0.9em; background: url(../images/arrow_r.gif) 22px -4px no-repeat; display: block; padding-right: 7px;}
+
+.contactframe_outer p{ margin-bottom: 10px;}
+.contactframe h2, .contactframe_form h2{ font-size: 1.3em;}
+.contactframe h3{ font-size: 1.1em; margin-bottom: 5px;}
+.contactframe ul{ margin-bottom: 20px;}
+.contactframe ul li{ font-weight: normal;}
+.profileskills{float: left; width: 360px; margin-top: 5px; background: url(../images/softwareicon.jpg) 210px 15px no-repeat;}
+.profiletxt{float: left; width: 400px; margin-right: 20px; margin-top: 5px;}
+.profilepic{float: left; width: 230px;}
+#twitterwidget{margin-top: 10px; margin-bottom: 10px;}
+
+.contactframe_form #formframe{ width:650px; margin: 0px auto; }
+#formframe h2{text-align: center; margin-top: 10px;}
+#formframe input{height: 17px;}
+#thanks{height: 300px;}
+#thanks h2{ margin-top: 120px;}
+#thanks p{ text-align: center;}
 
 body {color:#000; margin:0px; text-align:center; height: 100%;}
 #container { margin:0px auto; padding:0px; background: #eee /* url(../images/newbg.png) 0 0 repeat */;}
