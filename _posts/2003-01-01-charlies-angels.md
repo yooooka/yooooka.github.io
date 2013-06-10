@@ -1,4 +1,6 @@
 ---
+title: 'Charlie''s Angels: Full Throttle'
+tit: 'Charlie''s Angels'
 category: web
 images:
 - /images/samples/charliesangels201.jpg
@@ -9,6 +11,5 @@ tags:
 - Management
 - Design
 thumb: /images/thumb/charliesangels2_t.jpg
-title: 'Charlie''s Angels: Full Throttle'
 ---
 Collaborated with a writer to create the movie's official site in Japanese.
