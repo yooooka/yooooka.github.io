@@ -16,7 +16,7 @@ title: Home
                   {% if post.tit %}
                     {{ post.tit }}
                   {% else %}
-                    {{ post.title | truncatewords: 2 }}
+                    {{ post.title | truncatewords: 2, '' }}
                   {% endif %}
                   <br />{{ post.date | date: "%Y" }}
                 </p>
@@ -35,7 +35,7 @@ title: Home
                 <a href="{{post.url}}">
                   <img src="{{ post.thumb }}" alt="Thumbnail" />
                 </a>
-                <p>{{ post.title | truncatewords: 2 }}<br />{{ post.date | date: "%Y" }}</p>
+                <p>{{ post.title | truncatewords: 2, '' }}<br />{{ post.date | date: "%Y" }}</p>
                 </li>
                 {% endif %}
             {% endfor %}
