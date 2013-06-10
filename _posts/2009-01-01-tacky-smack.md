@@ -9,4 +9,4 @@ tags:
 thumb: /images/thumb/tackysmack1_t.jpg
 title: Tacky Smack
 ---
-I created this logo for a web site that buys and sells used construction equipment. It was also used as the company logo.
+Designed the vinyl wall sticker for Tacky Smack as a guest artist.
