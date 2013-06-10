@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/telemorulogo01.jpg
 layout: sample
-sample_link: ''
 tags:
 - Design
 thumb: /images/thumb/telemorulogo_t.jpg

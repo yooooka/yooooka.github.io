@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/isetan01.jpg
 layout: sample
-sample_link: ''
 tags:
 - Design
 thumb: /images/thumb/isetan_t.jpg

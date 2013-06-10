@@ -10,7 +10,7 @@ js:
   <div class="sampleframe_{{ page.category }} clearfix rounded">
     <div class="sampleimg">
       {% for image in page.images %}
-        {% if page.sample_link %}
+        {% if page.sample_link and page.sample_link != '' %}
           <a href="http://{{ page.sample_link }}" target="_blank"><img src="{{ image }}" alt="{{ page.title }}" /></a>
         {% else %}
           <img src="{{ image }}" alt="{{ page.title }}" />

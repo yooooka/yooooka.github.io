@@ -3,7 +3,6 @@ category: web
 images:
 - /images/samples/skullsquad01.jpg
 layout: sample
-sample_link: ''
 tags:
 - Design
 - Coding

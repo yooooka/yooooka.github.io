@@ -3,7 +3,6 @@ category: go
 images:
 - /images/samples/sasazuke01.jpg
 layout: sample
-sample_link: ''
 tags:
 - Conceptual design
 thumb: /images/thumb/sasazuke_t.jpg
