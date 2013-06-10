@@ -1,4 +1,6 @@
 ---
+title: YN Translation Logo
+tit: YN Translation Logo
 category: go
 images:
 - /images/samples/yntranslationlogo01.jpg
@@ -7,6 +9,5 @@ sample_link: ''
 tags:
 - Design
 thumb: /images/thumb/yntranslationlogo_t.jpg
-title: YN Logo
 ---
 A logo created for a translation company.
