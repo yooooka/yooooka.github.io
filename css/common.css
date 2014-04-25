@@ -159,12 +159,12 @@ a{ color: #222;}
 .clearfix { display:block;}
 
 /* ____ font size ____ */
-#header,#container,#footer,#copy,table{
+#header,#container,#footer,#copy,table, .font-xs{
 	font-size:x-small;
 	line-height:140%;
 	font-family:"Arial", "Lucida Grande", sans-serif; }
 
-* html #header,* html #container,* html #footer,* html #copy,* html table{
+* html #header,* html #container,* html #footer,* html #copy,* html table, * html .font-xs{
 /* ____ xml宣言なしの場合 winIE用 ____ */
 	font-size:xx-small;
 	line-height:140%;
