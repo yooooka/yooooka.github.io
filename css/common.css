@@ -56,7 +56,7 @@ body {color:#000; margin:0px; text-align:center; height: 100%;}
 
 /* ____ header ____ */
 #header {padding-top: 6em;}
-#header h1{ width: 702px; height: 177px; background: url(../images/title.gif) 0 0 no-repeat; }
+#header h1{ width: 702px; height: 177px; background: url(../images/title.png) 0 0 no-repeat; }
 #header h1 a{ display:block; width: 702px; height: 177px;  }
 #righthead{ position: fixed; _position: absolute; top: 0px; right: 0px; height: 53px; background: url(../images/ruler.gif) 0 0 repeat-x; padding-top: 10px; width: 100%; -moz-opacity:.90; filter:alpha(opacity=90); opacity:.90; z-index:9999;}
 #righthead h3#profile, #righthead h3#contact, #righthead h3#twitter{ display: inline;}
