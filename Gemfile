@@ -1,6 +1,2 @@
 source 'https://rubygems.org'
-
-ruby '1.9.3'
-
-gem 'jekyll'
-gem 'jekyll-s3'
+gem 'github-pages', group: :jekyll_plugins
